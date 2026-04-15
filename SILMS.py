@@ -168,7 +168,7 @@ def show_flash_message(parent, background_color, message_text, text_color=COLOR_
 
 
 def build_main_menu(parent):
-    """Builds the main menu page and returns the frame."""
+  
 
    #mainframe
     main_frame = tk.Frame(parent, bg=BG_MAIN)
